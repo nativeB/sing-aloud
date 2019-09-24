@@ -1,0 +1,13 @@
+{
+  "name": "singaloud",
+  "version": "1.0.0",
+  "description": "webrtc 1 to many broadcast with react",
+  "main": "index.js",
+  "repository": "https://github.com/nativeB/sing-aloud.git",
+  "author": "QUINCY HUTCHISON <30450645+nativeB@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

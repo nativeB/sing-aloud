@@ -1,0 +1,5 @@
+.env
+node_modules/
+
+# added yarn.lock to gitignore
+yarn.lock
